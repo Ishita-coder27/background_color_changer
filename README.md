@@ -1,4 +1,20 @@
-# React + Vite
+A simple and responsive React app that lets users dynamically change the background color of the screen with a single click. Built using React, powered by Vite for blazing-fast development, and styled with Tailwind CSS for a clean and modern UI.
+
+ Features:
+Instant background color changes on click
+
+Fully responsive design
+
+Minimal and clean interface using Tailwind
+
+Superfast performance with Vite
+
+ Tech Stack:
+React – Frontend framework
+
+Vite – Development and build tool
+
+Tailwind CSS – Utility-first CSS framework# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
